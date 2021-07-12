@@ -1,0 +1,2 @@
+com/DefaultCompany/Penguin2DPlatformer/BuildConfig.java
+ com.DefaultCompany.Penguin2DPlatformer.BuildConfig
